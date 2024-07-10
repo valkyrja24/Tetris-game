@@ -1,0 +1,7 @@
+# Visual Studio files and folder
+.vs/
+.vcxproj.filters
+.vcxproj.user
+
+# Binaries
+**/x64
